@@ -4,7 +4,7 @@ const database = 'dadosweb212';
 //instanciar objeto de acesso ao banco de dados
 const conexao = mysql.createConnection({
     user: 'root',
-    password: 'Th167575#',
+    password: 'senha',
     host: 'localhost',
     port: 3306 //porta padrão mysql
 })
